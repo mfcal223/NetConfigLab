@@ -1,4 +1,13 @@
-# NetConfigLab - IP Configuration Practice 
+- [6. 🏷️ IP Addressing](#6-️-ip-addressing)
+	- [🧮 What does the number mean?](#-what-does-the-number-mean)
+	- [📉 What is IPv4 Address Depletion?](#-what-is-ipv4-address-depletion)
+		- [📱 **Real-World Problem: Too Many Devices !**](#-real-world-problem-too-many-devices-)
+	- [🏠 Private vs. Public IP Ranges](#-private-vs-public-ip-ranges)
+	- [🌐 Classes of IP: Network and Host Portions](#-classes-of-ip-network-and-host-portions)
+		- [🌐 Classful addressing](#-classful-addressing)
+		- [🌐 Classless Inter Domain Routing (CIDR)](#-classless-inter-domain-routing-cidr)
+	- [📐 IPV4 addressing rules focused on small-scale network configuration exercises:](#-ipv4-addressing-rules-focused-on-small-scale-network-configuration-exercises)
+
 
 ## 6. 🏷️ IP Addressing
 

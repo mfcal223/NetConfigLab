@@ -1,19 +1,7 @@
-# NetConfigLab - IP Configuration Practice 
-## Complete Guide and Explanation of a TCP/IP Workshop.
+- [1. 📝 Project Overview and Objectives](#1--project-overview-and-objectives)
+- [2. 🧭 How the NetConfigLab Project Works](#2--how-the-netconfiglab-project-works)
+- [3. 🔖 Source References](#3--source-references)
 
-## INDEX
-1. 📝 Project Overview and Objectives  
-2. 🧭 How the NetConfigLab Project Works  
-3. 🔖 Source References
-4.💡 Core Theoretical Concepts: TCP/IP Networking Essentials 
-   - 📖 The Curious Case of Pippa’s Cookies Recipe: A Networking Story 
-5. 📘 Transmission Control Protocol/Internet Protocol (TCP/IP) Protocol Suite
-6. 🏷️ IP Addressing
-7. 👺 Subnet Mask & Subnetting: Defining Network Boundaries
-8. 🚏 Basic Routing: Guiding Data Across Networks
-
-
---- 
 
 ## 1. 📝 Project Overview and Objectives
 

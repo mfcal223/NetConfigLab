@@ -1,4 +1,8 @@
-# NetConfigLab - IP Configuration Practice 
+- [7. 👺 Subnet Mask \& Subnetting: Defining Network Boundaries](#7--subnet-mask--subnetting-defining-network-boundaries)
+  - [📊 Subnet Mask to CIDR Conversion Table](#-subnet-mask-to-cidr-conversion-table)
+  - [🧮 Subnetting:](#-subnetting)
+
+---
 
 ## 7. 👺 Subnet Mask & Subnetting: Defining Network Boundaries
 

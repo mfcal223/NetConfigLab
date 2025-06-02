@@ -1,8 +1,8 @@
-# NetConfigLab - IP Configuration Practice 
+- [3. 💡 Core Theoretical Concepts: TCP/IP Networking Essentials](#3--core-theoretical-concepts-tcpip-networking-essentials)
+  - [🔑 Core Concepts](#-core-concepts)
+  - [📖 The Curious Case of Pippa’s Cookies Recipe: A Networking Story](#-the-curious-case-of-pippas-cookies-recipe-a-networking-story)
 ---
-> FOR INDEX AND INTRODUCTION OF THE PROJECT GO TO `LINK`
 
----
 ## 3. 💡 Core Theoretical Concepts: TCP/IP Networking Essentials 
 
 The project requires a foundational understanding of **TCP/IP addressing** and **network structure**.  

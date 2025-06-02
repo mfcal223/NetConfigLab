@@ -1,3 +1,10 @@
+- [🚏 Basic Routing: Guiding Data Across Networks](#-basic-routing-guiding-data-across-networks)
+  - [🚪 Default Gateway: : Your Exit to Other Networks](#-default-gateway--your-exit-to-other-networks)
+  - [⛓ Switch](#-switch)
+  - [Routers](#routers)
+    - [Routing Table](#routing-table)
+
+--- 
 
 ## 🚏 Basic Routing: Guiding Data Across Networks
 Routing is the function of directing data packets across networks from their source to their destination. The Internet Protocol (IP) is responsible for this.

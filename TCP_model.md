@@ -1,4 +1,10 @@
-# NetConfigLab - IP Configuration Practice 
+- [5. 📘 Transmission Control Protocol/Internet Protocol (TCP/IP) Protocol Suite](#5--transmission-control-protocolinternet-protocol-tcpip-protocol-suite)
+	- [Layers of TCP/IP Model](#layers-of-tcpip-model)
+	- [🟢 Advantages of TCP/IP Model](#-advantages-of-tcpip-model)
+	- [🔴 Disadvantages of TCP/IP Model](#-disadvantages-of-tcpip-model)
+	- [📦 Data Packets: The Units of Communication](#-data-packets-the-units-of-communication)
+
+---
 
 ## 5. 📘 Transmission Control Protocol/Internet Protocol (TCP/IP) Protocol Suite
 
