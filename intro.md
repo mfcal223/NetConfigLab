@@ -4,8 +4,14 @@
 ## INDEX
 1. 📝 Project Overview and Objectives  
 2. 🧭 How the NetConfigLab Project Works  
-3. 💡 Core Theoretical Concepts: TCP/IP Networking Essentials 
-- 📖 The Curious Case of Pippa’s Cookies Recipe: A Networking Story 
+3. 🔖 Source References
+4.💡 Core Theoretical Concepts: TCP/IP Networking Essentials 
+   - 📖 The Curious Case of Pippa’s Cookies Recipe: A Networking Story 
+5. 📘 Transmission Control Protocol/Internet Protocol (TCP/IP) Protocol Suite
+6. 🏷️ IP Addressing
+7. 👺 Subnet Mask & Subnetting: Defining Network Boundaries
+8. 🚏 Basic Routing: Guiding Data Across Networks
+
 
 --- 
 
@@ -62,3 +68,19 @@ If your main goal is just IP addressing + subnet mask calculations, try:
 - After fixing each level, **export the configuration**  
 
 > 🧠 this can be use for evaluation/examination purposes.   
+  
+---
+  
+
+## 3. 🔖 Source References
+
+1. A1 Digital – What is TCP/IP? : https://www.a1.digital/knowledge-hub/tcp-ip-explained/
+2. CISCO IP Addressing Guide : https://www.cisco.com/c/dam/global/en_ca/solutions/strategy/docs/sbaBN_IPv4addrG.pdf
+3. TCP/IP Model | GeeksforGeeks: https://www.geeksforgeeks.org/tcp-ip-model/
+4. TCP/IP in Computer Networking | GeeksforGeeks: https://www.geeksforgeeks.org/tcp-ip-in-computer-networking/
+5. What is IPv4? | GeeksforGeeks : https://www.geeksforgeeks.org/what-is-ipv4/
+6. Introduction of Classful IP Addressing : https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/
+7. Tech - FAQ | IP Address Classes : https://www.tech-faq.com/ip-address-classes.html
+8. https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting
+9. https://www.baeldung.com/cs/routing-vs-forwarding-tables
+10. https://www.geeksforgeeks.org/routing-tables-in-computer-network/
