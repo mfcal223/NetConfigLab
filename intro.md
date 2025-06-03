@@ -72,3 +72,6 @@ If your main goal is just IP addressing + subnet mask calculations, try:
 8. https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting
 9. https://www.baeldung.com/cs/routing-vs-forwarding-tables
 10. https://www.geeksforgeeks.org/routing-tables-in-computer-network/
+    
+Next: 
+[3. 💡 Core Theoretical Concepts: TCP/IP Networking Essentials](core_concepts.md#3--core-theoretical-concepts-tcpip-networking-essentials)

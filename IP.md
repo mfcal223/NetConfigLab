@@ -168,6 +168,8 @@ Example: `192.168.1.0/24`
 
 ---
 
+Next:  
+[7. 👺 Subnet Mask & Subnetting: Defining Network Boundaries](Subnet.md#7--subnet-mask--subnetting-defining-network-boundaries)
 
 
 

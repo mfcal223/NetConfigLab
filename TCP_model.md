@@ -77,3 +77,6 @@ These packets travel independently across the network and are reassembled in the
 > - Routed by **IP**.
 > - Assembled at the destination.
 ---
+
+Next:
+[6. 🏷️ IP Addressing](IP.md#6--ip-addressing)

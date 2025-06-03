@@ -109,4 +109,5 @@ Alice opens the completed recipe and starts baking. Pippa gets a little *“Than
 > Routers act like post offices guiding data along the best path.  
 > Subnet masks define who’s “local” and who needs to go through the gateway.  
 
-
+Next:
+[5. 📘 Transmission Control Protocol/Internet Protocol (TCP/IP) Protocol Suite](TCP_model.md#5--transmission-control-protocolinternet-protocol-tcpip-protocol-suite)

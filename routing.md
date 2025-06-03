@@ -45,3 +45,8 @@ In some exercises, the routing table consists of 2 elements:
 - Next hop: = the next closest router a packet can go through. It is the IP address of the next router on the packet's way. Every single router maintains its routing table with a next hop address.
 
 ![Routing Table](https://www.baeldung.com/wp-content/uploads/sites/4/2022/10/Routing-Table.drawio.png)
+
+---
+Next:  
+
+[⚠️ Common Pitfalls in Networking Exercises](exercises.md#️-common-pitfalls-in-networking-exercises)
