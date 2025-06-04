@@ -14,7 +14,7 @@ By performing a logical `AND` operation between the IP address and the subnet ma
 
 Let's go through this concepts with an example:  
   
-> IP address | 104.198.241.125
+> IP address | 104.198.241.125  
 > Mask       | 255.255.255.128
 
 ✒️ Subnet masks are 32 bits long, just like IP addresses.  
@@ -48,11 +48,11 @@ To obtain the network address we need to perform a bitwise `AND` operation betwe
 Back into decimal, the **network address** is `104.198.241.0/25`.  
   
 Therefore:  
-🔹 **IP Range**: 104.198.241.0 to 104.198.241.127  ➡️ 128 possibles IP
+🔹 **IP Range**: 104.198.241.0 to 104.198.241.127  ➡️ 128 possibles IP  
 🔹 **Usable hosts ("real range")**: 104.198.241.1 to 104.198.241.126  ➡️ 126 usable addresses  
-🔹 As the extremities of the range are reserved for specific uses and cannot be given to an interface:
-        🔹 **Broadcast address**: 104.198.241.127  
-        🔹 **Network address**: 104.198.241.0
+🔹 As the extremities of the range are reserved for specific uses and cannot be given to an interface:  
+        🔹 **Broadcast address**: 104.198.241.127    
+        🔹 **Network address**: 104.198.241.0  
 .  
 
 ### 📊 Subnet Mask to CIDR Conversion Table

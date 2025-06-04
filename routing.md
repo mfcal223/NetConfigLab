@@ -1,12 +1,12 @@
-- [🚏 Basic Routing: Guiding Data Across Networks](#-basic-routing-guiding-data-across-networks)
+- [🚏 8. Basic Routing: Guiding Data Across Networks](#-8-basic-routing-guiding-data-across-networks)
   - [🚪 Default Gateway: : Your Exit to Other Networks](#-default-gateway--your-exit-to-other-networks)
   - [⛓ Switch](#-switch)
-  - [Routers](#routers)
-    - [Routing Table](#routing-table)
+  - [🛰 Routers](#-routers)
+    - [🧭 Routing Table](#-routing-table)
 
 --- 
 
-## 🚏 Basic Routing: Guiding Data Across Networks
+## 🚏 8. Basic Routing: Guiding Data Across Networks
 Routing is the function of directing data packets across networks from their source to their destination. The Internet Protocol (IP) is responsible for this.
 
 ### 🚪 Default Gateway: : Your Exit to Other Networks
@@ -23,7 +23,7 @@ A switch connects multiple devices together in a single network. Unlike a router
 
 ---
 
-### Routers 
+### 🛰 Routers 
 
 **Routers** are network devices specifically designed to perform routing: they connect multiple networks together.
 They examine the destination IP address of incoming packets and use routing tables to decide the most efficient path to forward the packet towards its final destination, potentially across multiple interconnected networks.  
@@ -32,7 +32,7 @@ Understanding how routing works at a basic level helps predict how data will tra
 The router has an interface for each network it connects to.  
 Since the router separates different networks, the range of possible IP addresses on one of its interfaces must not overlap with the range of its other interfaces. An overlap in the IP address range would imply that the interfaces are on the same network.
 
-#### Routing Table 
+#### 🧭 Routing Table 
 
 A routing table is a data table stored in a router or a network host that lists the routes to particular network destinations.  
 
@@ -46,7 +46,20 @@ In some exercises, the routing table consists of 2 elements:
 
 ![Routing Table](https://www.baeldung.com/wp-content/uploads/sites/4/2022/10/Routing-Table.drawio.png)
 
+🧠 **Larger Networks "Contain" Smaller Ones**
+When doing exercises you will find yourself in the need to set or change destination and next hop information. 
+Using default values might not always work.  
+
+- If you have devices in a subnet = 192.168.0.192/26  
+- But you put a route to 192.168.0.0/24  
+- The destination in the routing table will see a matching prefix, because: `192.168.0.192 is part of 192.168.0.0/24`.  
+So even though the subnet is more specific, the route still includes it.  
+
+> Routing always picks the most specific route:  
+> 192.168.0.192/26 beats 192.168.0.0/24  
+> 192.168.0.0/24 beats 0.0.0.0/0
+
+
 ---
 Next:  
-
-[⚠️ Common Pitfalls in Networking Exercises](exercises.md#️-common-pitfalls-in-networking-exercises)
+[9. 🧯 Exercises tips and Troubleshooting checklist](#9--exercises-tips-and-troubleshooting-checklist)

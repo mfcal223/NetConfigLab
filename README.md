@@ -10,7 +10,7 @@
 - [3. 🔖 Source References](intro.md#3--source-references)
 
 ## 💡 core_concepts.md
-- [3. 💡 Core Theoretical Concepts: TCP/IP Networking Essentials](core_concepts.md#3--core-theoretical-concepts-tcpip-networking-essentials)
+- [4. 💡 Core Theoretical Concepts: TCP/IP Networking Essentials](core_concepts.md#4--core-theoretical-concepts-tcpip-networking-essentials)
   - [🔑 Core Concepts](core_concepts.md#-core-concepts)
   - [📖 The Curious Case of Pippa’s Cookies Recipe: A Networking Story](core_concepts.md#-the-curious-case-of-pippas-cookies-recipe-a-networking-story)
 
@@ -37,15 +37,17 @@
   - [🧮 Subnetting:](Subnet.md#-subnetting)
 
 ## 🚏 routing.md
-- [🚏 Basic Routing: Guiding Data Across Networks](routing.md#-basic-routing-guiding-data-across-networks)
+- [🚏 8. Basic Routing: Guiding Data Across Networks](routing.md#-basic-routing-guiding-data-across-networks)
   - [🚪 Default Gateway: : Your Exit to Other Networks](routing.md#-default-gateway--your-exit-to-other-networks)
   - [⛓ Switch](routing.md#-switch)
   - [Routers](routing.md#routers)
   - [Routing Table](routing.md#routing-table)
 
 ## 🧪 exercises.md
-- [⚠️ Common Pitfalls in Networking Exercises](exercises.md#️-common-pitfalls-in-networking-exercises)
-- [🧯 NetPractice Troubleshooting Checklist](exercises.md#-netpractice-troubleshooting-checklist)
-- [🛠️ Diagnostic Tools](exercises.md#-diagnostic-tools)
-
+- [9. 🧯 Exercises tips and Troubleshooting checklist](#9--exercises-tips-and-troubleshooting-checklist)
+  - [⚠️ Common Pitfalls in Networking Exercises](#️-common-pitfalls-in-networking-exercises)
+  - [Decimal to binary - "manual" conversion](#decimal-to-binary---manual-conversion)
+    - [How to Convert Decimal to Binary](#how-to-convert-decimal-to-binary)
+    - [Using "bc" in the terminal window](#using-bc-in-the-terminal-window)
+  - [🛠️ Diagnostic Tools](#️-diagnostic-tools)
 --- 
