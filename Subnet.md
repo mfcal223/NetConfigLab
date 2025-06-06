@@ -69,7 +69,8 @@ Therefore:
 | `/22` | `255.255.252.0`   | 10        | 1022       | 1024       | Large subnet or supernet                      |
 | `/16` | `255.255.0.0`     | 16        | 65,534     | 65,536     | Large organizations                           |
 
-
+> The transition in the Subnet Mask can happen only once from 1 to 0 — never go back and forth!
+> 255.255.192.240 ------> ❌ This breaks the rule! IT IS NOT A VALID SUBNET MASK
 ---
 
 ### 🧮 Subnetting:
@@ -115,6 +116,8 @@ It will belong to a different subnet.
 - To organize networks (e.g., split by department, floor, etc.)
 - For routing efficiency and security
 ---
+Prev:  
+[6. 🏷️ IP Addressing](IP.md#6--ip-addressing)  
 
-Next:
-[🚏 Basic Routing: Guiding Data Across Networks](routing.md#-basic-routing-guiding-data-across-networks)
+Next:  
+[🚏 Basic Routing: Guiding Data Across Networks](routing.md#-basic-routing-guiding-data-across-networks)  

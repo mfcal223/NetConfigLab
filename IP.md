@@ -167,9 +167,11 @@ Example: `192.168.1.0/24`
 - Usable: `192.168.1.1` – `192.168.1.254`
 
 ---
+Prev:  
+[5. 📘 Transmission Control Protocol/Internet Protocol (TCP/IP) Protocol Suite](TCP_model.md#5--transmission-control-protocolinternet-protocol-tcpip-protocol-suite)  
 
-Next:  
-[7. 👺 Subnet Mask & Subnetting: Defining Network Boundaries](Subnet.md#7--subnet-mask--subnetting-defining-network-boundaries)
+Next:   
+[7. 👺 Subnet Mask & Subnetting: Defining Network Boundaries](Subnet.md#7--subnet-mask--subnetting-defining-network-boundaries)  
 
 
 

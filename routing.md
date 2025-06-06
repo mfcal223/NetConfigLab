@@ -60,6 +60,9 @@ So even though the subnet is more specific, the route still includes it.
 > 192.168.0.0/24 beats 0.0.0.0/0
 
 
----
+---  
+Prev:  
+[7. 👺 Subnet Mask & Subnetting: Defining Network Boundaries](Subnet.md#7--subnet-mask--subnetting-defining-network-boundaries)  
+
 Next:  
-[9. 🧯 Exercises tips and Troubleshooting checklist](#9--exercises-tips-and-troubleshooting-checklist)
+[9. 🧯 Exercises tips and Troubleshooting checklist](#9--exercises-tips-and-troubleshooting-checklist)  

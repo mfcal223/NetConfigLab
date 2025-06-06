@@ -75,8 +75,11 @@ These packets travel independently across the network and are reassembled in the
 > Packets are:
 > - Split by **TCP**.
 > - Routed by **IP**.
-> - Assembled at the destination.
----
+> - Assembled at the destination.  
 
-Next:
-[6. 🏷️ IP Addressing](IP.md#6--ip-addressing)
+---
+Prev:
+[4. 💡 Core Theoretical Concepts: TCP/IP Networking Essentials](core_concepts.md#4--core-theoretical-concepts-tcpip-networking-essentials)  
+
+Next:  
+[6. 🏷️ IP Addressing](IP.md#6--ip-addressing)  
