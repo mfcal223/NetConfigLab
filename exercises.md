@@ -1,10 +1,10 @@
 - [9. 🧯 Exercises tips and Troubleshooting checklist](#9--exercises-tips-and-troubleshooting-checklist)
-	- [⚠️ Common Pitfalls in Networking Exercises](#️-common-pitfalls-in-networking-exercises)
-	- [🧮 **Decimal to binary - "manual" conversion**](#-decimal-to-binary---manual-conversion)
-		- [**Binary numbers you will use in subnet masks**](#binary-numbers-you-will-use-in-subnet-masks)
-		- [✏️ **How to Convert Decimal to Binary**](#️-how-to-convert-decimal-to-binary)
-		- [💻 **Using "bc" in the terminal window**](#-using-bc-in-the-terminal-window)
-	- [🛠️ Diagnostic Tools](#️-diagnostic-tools)
+  - [⚠️ Common Pitfalls in Networking Exercises](#️-common-pitfalls-in-networking-exercises)
+  - [🧮 **Decimal to binary - "manual" conversion**](#-decimal-to-binary---manual-conversion)
+    - [**Binary numbers you will use in subnet masks**](#binary-numbers-you-will-use-in-subnet-masks)
+    - [✏️ **How to Convert Decimal to Binary**](#️-how-to-convert-decimal-to-binary)
+    - [💻 **Using "bc" in the terminal window**](#-using-bc-in-the-terminal-window)
+  - [🛠️ Diagnostic Tools](#️-diagnostic-tools)
 
 ## 9. 🧯 Exercises tips and Troubleshooting checklist
 
@@ -184,4 +184,6 @@ Binary, Octal, Decimal, Hex — YES! But you must set the input/output base:
 ---
 
 Prev:  
-[🚏 8. Basic Routing: Guiding Data Across Networks](routing.md#-basic-routing-guiding-data-across-networks)
+[🚏 8. Basic Routing: Guiding Data Across Networks](routing.md#-basic-routing-guiding-data-across-networks)  
+
+Back to : [README file](README.md)  

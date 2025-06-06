@@ -44,10 +44,10 @@
   - [Routing Table](routing.md#routing-table)
 
 ## 🧪 exercises.md
-- [9. 🧯 Exercises tips and Troubleshooting checklist](#9--exercises-tips-and-troubleshooting-checklist)
-  - [⚠️ Common Pitfalls in Networking Exercises](#️-common-pitfalls-in-networking-exercises)
-  - [Decimal to binary - "manual" conversion](#decimal-to-binary---manual-conversion)
-    - [How to Convert Decimal to Binary](#how-to-convert-decimal-to-binary)
-    - [Using "bc" in the terminal window](#using-bc-in-the-terminal-window)
-  - [🛠️ Diagnostic Tools](#️-diagnostic-tools)
+- [9. 🧯 Exercises tips and Troubleshooting checklist](exercises.md#9--exercises-tips-and-troubleshooting-checklist)
+  - [⚠️ Common Pitfalls in Networking Exercises](exercises.md##️-common-pitfalls-in-networking-exercises)
+  - [Decimal to binary - "manual" conversion](exercises.md#decimal-to-binary---manual-conversion)
+    - [How to Convert Decimal to Binary](exercises.md#how-to-convert-decimal-to-binary)
+    - [Using "bc" in the terminal window](exercises.md#using-bc-in-the-terminal-window)
+  - [🛠️ Diagnostic Tools](exercises.md##️-diagnostic-tools)
 --- 
